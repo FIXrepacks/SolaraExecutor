@@ -12,7 +12,7 @@
 
 ## Features
 
-- **User-Friendly Interface:** Solara offers a clean and intuitive interface that makes it easy to load and inject scripts with just a few clicks.
+- **User-Friendly Interface:** Solara offers a clean and intuitive interface that makes it easy to load and inject scripts with just a few clicks.✅
 - **Wide Compatibility:** Supports a broad range of Roblox scripts and is regularly updated to ensure compatibility with the latest Roblox updates.
 - **High Performance:** Optimized for speed, Solara injects scripts quickly and efficiently without causing lag or crashes.
 - **Enhanced Security:** Built with security in mind, Solara includes features to protect your account and personal information while using custom scripts.
