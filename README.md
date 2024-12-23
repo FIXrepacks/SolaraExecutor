@@ -1,4 +1,6 @@
-# SolaraExecutor 🔰 ![image](https://github.com/user-attachments/assets/a84fc674-54b5-4bc9-a969-aaa920742f11)
+![image](https://github.com/user-attachments/assets/498039a1-254e-4cb9-95cb-854b7d04fb25)
+
+# SolaraExecutor 🔰
 
 **The First free ; Best External Executor After Byfron.**
 
